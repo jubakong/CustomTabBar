@@ -8,7 +8,7 @@
 
 ### Guideline
 
-##### SceneDelegate에서 아래와 같이 구현합니다.
+##### iOS 13이상에서는 SceneDelegate에서, 그 이하는 App Delegate에서 아래와 같이 구현합니다.
 <img width="883" alt="스크린샷 2020-07-06 오후 11 36 33" src="https://user-images.githubusercontent.com/52398126/86605581-d7f62100-bfe1-11ea-9529-a99f9c6639ad.png">
 
 ##### 레이블 객체생성 및 크기 지정후, 현재의 뷰에 addSubview메소드를 통해 Label을 SubView로 추가합니다.
