@@ -2,7 +2,7 @@
 
 ### 꼼꼼한 재은 씨의 스위프트 시리즈 실전편 커스텀 탭바 구현 예제입니다.
 
-##### 폰트 및 이미지 개인의 취향에 맞게 변경 할 수 있습니다.
+##### 폰트 및 이미지, 레이블은 개인의 취향에 맞게 변경 할 수 있습니다.
 
 ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/52398126/86605019-1dfeb500-bfe1-11ea-95c4-aacb77e44e57.gif)
 
